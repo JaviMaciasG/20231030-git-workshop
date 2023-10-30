@@ -11,7 +11,7 @@ Remember the workflow:
 
   `git clone git@github.com:JaviMaciasG/20231030-git-workshop.git
   
-+ Copy any of the available files as `<YOUR_INITIALS>-<FILENAME>.<EXTENSION>``
++ Copy any of the available files as `<YOUR_INITIALS>-<FILENAME>.<EXTENSION>`
 
 + Check the repo status:
 
@@ -38,28 +38,6 @@ Remember the workflow:
   `git push`
   
   
-+ Modify the file
 
-+ Add the file to the staging area
-
-  `git add <file>`
   
-+ Check the repo status:
-
-  `git status`
-  
-+ Commit the changes to the repository
-
-  `git commit -m "BRIEFLY EXPLAIN YOUR CHANGES"`
-  
-+ Check the repo status:
-
-  `git status`
-  
-+ Push the changes to the repo:
-
-  `git push`
-
-
-
   
