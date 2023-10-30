@@ -1,1 +1,1 @@
-print("Hello World from lab OL11!")
+print("Hello World from laboratory OL11!")
