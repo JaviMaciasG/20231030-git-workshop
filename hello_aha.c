@@ -8,7 +8,7 @@ int sum(int a, int b)
 
 int main(int argc, char **argv)
 {
-    printf("Hello World from AHA");
+    printf("Hello World from AHA 2");
   
     return 0;
 }
