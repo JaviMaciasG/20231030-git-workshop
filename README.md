@@ -11,7 +11,7 @@ Remember the workflow:
 
   `git clone git@github.com:JaviMaciasG/20231030-git-workshop.git
   
-+ Copy any of the available files as `<YOUR_INITIALS>-<FILENAME>.<EXTENSION>``
++ Copy any of the available files as `<YOUR_INITIALS>-<FILENAME>.<EXTENSION>`
 
 + Check the repo status:
 
@@ -38,6 +38,7 @@ Remember the workflow:
   `git push`
   
   
+
 + Modify the file
 
 + Add the file to the staging area
@@ -62,4 +63,6 @@ Remember the workflow:
 
 
 
+  
+  
   
