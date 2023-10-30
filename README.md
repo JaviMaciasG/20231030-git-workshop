@@ -7,11 +7,12 @@ messages like "Hello world from <your name>"
 
 Remember the workflow:
 
+
 + Clone this repository
 
-  `git clone https://github.com/JaviMaciasG/20220318-git-workshop.git`
+  `git clone git@github.com:JaviMaciasG/20231030-git-workshop.git`
   
-+ Modify any of the available files
++ Copy any of the available files as `<YOUR_INITIALS>-<FILENAME>.<EXTENSION>`
 
 + Check the repo status:
 
@@ -27,7 +28,7 @@ Remember the workflow:
   
 + Commit the changes to the repository
 
-  `git commit -m "Added new message to print"`
+  `git commit -m "New file created"`
   
 + Check the repo status:
 
@@ -38,6 +39,30 @@ Remember the workflow:
   `git push`
   
   
+
++ Modify the file
+
++ Add the file to the staging area
+
+  `git add <file>`
+  
++ Check the repo status:
+
+  `git status`
+  
++ Commit the changes to the repository
+
+  `git commit -m "BRIEFLY EXPLAIN YOUR CHANGES"`
+  
++ Check the repo status:
+
+  `git status`
+  
++ Push the changes to the repo:
+
+  `git push`
+
+
 
   
   
