@@ -9,7 +9,7 @@ Remember the workflow:
 
 + Clone this repository
 
-  `git clone git@github.com:JaviMaciasG/20231030-git-workshop.git
+  `git clone git@github.com:JaviMaciasG/20231030-git-workshop.git`
   
 + Copy any of the available files as `<YOUR_INITIALS>-<FILENAME>.<EXTENSION>`
 
@@ -63,6 +63,5 @@ Remember the workflow:
 
 
 
-  
   
   
